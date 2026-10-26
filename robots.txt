@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://riggwar.github.io/al-folio/sitemap.xml
+Sitemap: https://riggwar.github.io/sitemap.xml
